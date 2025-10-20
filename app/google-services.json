@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506179717391",
+    "project_id": "loginfirebase-eb71b",
+    "storage_bucket": "loginfirebase-eb71b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506179717391:android:1eb1201ebc8de4bdd1967a",
+        "android_client_info": {
+          "package_name": "me.miguelhernandez.unabstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNzloRcv3RO177H6bX0f3B79Mjuty6BZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
